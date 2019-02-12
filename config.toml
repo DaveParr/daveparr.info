@@ -29,7 +29,7 @@ theme = "prologue"
   title = "Tales From The Makery"
   alt = ""
   source = "img/talesFromTheMakery.jpg"
-  url = "#"
+  url = "https://www.youtube.com/channel/UCcJL7jIMFig2119tYpy8TsQ"
 
 [[params.portfolio1]]
   title = "Noun Project R api"
