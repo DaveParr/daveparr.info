@@ -14,9 +14,20 @@ theme = "prologue"
   link = "https://twitter.com/daveparr"
 
 [[params.social]]
+  medium = "instagram"
+  icon = "instagram"
+  link = "https://www.instagram.com/davergparr/"
+
+[[params.social]]
   medium = "github"
   icon = "github"
   link = "https://github.com/DaveParr"
+
+[[params.social]]
+  medium = "LinkedIn"
+  icon = "linkedin"
+  link = "https://www.linkedin.com/in/davidrgparr/"
+
 
 [[params.social]]
   medium = "email"
@@ -27,35 +38,42 @@ theme = "prologue"
 
 [[params.portfolio1]]
   title = "Tales From The Makery"
-  alt = ""
   source = "img/talesFromTheMakery.jpg"
   url = "https://www.youtube.com/channel/UCcJL7jIMFig2119tYpy8TsQ"
-
-[[params.portfolio1]]
-  title = "Noun Project R api"
-  alt = ""
-  source = ""
-  url = "https://github.com/CaRdiffR/nounprojectR"
 
 # Portfolio column two
 
 [[params.portfolio2]]
   title = "Cardiff R User Group"
-  alt = ""
   source = "img/caRdiffR.png"
   url = "https://www.meetup.com/Cardiff-R-User-Group/"
+
+[[params.portfolio2]]
+  title = "Noun Project R api"
+  source = "img/r.jpg"
+  url = "https://github.com/CaRdiffR/nounprojectR"
+
+[[params.portfolio2]]
+  title = "Trans Day of Rememberance R data package"
+  source = "img/r.jpg"
+  url = "https://github.com/CaRdiffR/tdor/"
 
 # Portfolio column 3
 
 [[params.portfolio3]]
   title = "SatRdays Cardiff"
-  alt = ""
   source = "img/satRdayLogo-square.png"
   url = "https://cardiff2018.satrdays.org/"
 
 [[params.portfolio3]]
   title = "SatRdays hugo theme"
-  alt = ""
   source = "img/satrdays.png"
   url = "https://github.com/satRdays/hugo-satrdays-theme"
+
+
+[[params.portfolio3]]
+  title = "SatRday Budapest Talk"
+  source = "img/budapest.jpg"
+  url = "https://youtu.be/afVks_er01s"
+
 
