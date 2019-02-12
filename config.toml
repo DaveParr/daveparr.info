@@ -28,12 +28,6 @@ theme = "prologue"
   icon = "linkedin"
   link = "https://www.linkedin.com/in/davidrgparr/"
 
-
-[[params.social]]
-  medium = "email"
-  icon = "envelope"
-  link = "DavidRGParr@gmail.com"
-
 # Portfolio column one
 
 [[params.portfolio1]]
