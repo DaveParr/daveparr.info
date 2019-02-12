@@ -1,0 +1,61 @@
+anguageCode = "en-us"
+title = "Dave Parr"
+baseurl = "daveparr.info"
+theme = "prologue"
+
+[params]
+  name = "Dave Parr"
+  description = "Make, Do and Mend"
+  copyright = "Untitled."
+
+[[params.social]]
+  medium = "twitter"
+  icon = "twitter"
+  link = "https://twitter.com/daveparr"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "https://github.com/DaveParr"
+
+[[params.social]]
+  medium = "email"
+  icon = "envelope"
+  link = "DavidRGParr@gmail.com"
+
+# Portfolio column one
+
+[[params.portfolio1]]
+  title = "Tales From The Makery"
+  alt = ""
+  source = "img/talesFromTheMakery.jpg"
+  url = "#"
+
+[[params.portfolio1]]
+  title = "Noun Project R api"
+  alt = ""
+  source = ""
+  url = "https://github.com/CaRdiffR/nounprojectR"
+
+# Portfolio column two
+
+[[params.portfolio2]]
+  title = "Cardiff R User Group"
+  alt = ""
+  source = "img/caRdiffR.png"
+  url = "https://www.meetup.com/Cardiff-R-User-Group/"
+
+# Portfolio column 3
+
+[[params.portfolio3]]
+  title = "SatRdays Cardiff"
+  alt = ""
+  source = "img/satRdayLogo-square.png"
+  url = "https://cardiff2018.satrdays.org/"
+
+[[params.portfolio3]]
+  title = "SatRdays hugo theme"
+  alt = ""
+  source = "img/satrdays.png"
+  url = "https://github.com/satRdays/hugo-satrdays-theme"
+
